@@ -10,5 +10,5 @@
     * Action: For every state, an agent needs to take an action in order to reach towards a final goal.
     * State: The current position within the environment that is visible to an agent.
     * Episode: A period of trail and error where agent makes decisions and gets rewards from its enviroment.
-    * Exploration: Wandering to discover 
-    * Exploitation: Using experience to decide 
+    * Exploration: Wandering in random directions to know about the environment.This experience helps the agent to become more confident about the actions it chooses.
+    * Exploitation: Using experience or information to reach its goal.
